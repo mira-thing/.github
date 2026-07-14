@@ -28,7 +28,7 @@
 Grab a build from [mira-releases](https://github.com/mira-thing/mira-releases) and flash with the standard Car Thing tools.
 
 ## Support
-Mira is free and open source. If you'd like to support development, you can sponsor on [GitHub Sponsors](https://github.com/sponsors/MustakimK) or [Ko-fi](https://ko-fi.com/MustakimK).
+If you'd like to support development, you can do so on [GitHub Sponsors](https://github.com/sponsors/MustakimK) or [Ko-fi](https://ko-fi.com/MustakimK).
 
 ---
 

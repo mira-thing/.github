@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img width="3981" height="2654" alt="hero" src="https://github.com/user-attachments/assets/e900c7a4-8511-49de-890a-927720c123d0" />
+  <img width="4080" height="2295" alt="hero" src="https://github.com/user-attachments/assets/46afdb76-48bb-41bd-93d9-dc79aa00feab" />
 </p>
 
 <h1 align="center">Mira</h1>
